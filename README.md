@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarunpahade
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning ux design
+- 🌱 I’m currently learning software developnment
 - 💞️ I’m looking to collaborate on gmail
 - 📫 How to reach me tarunpahade6969@gmail.com
 
