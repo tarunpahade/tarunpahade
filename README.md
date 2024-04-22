@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning software developnment
 - 💞️ I’m looking to collaborate on gmail
-- 📫 How to reach me tarunpahade6969@gmail.com
+- 📫 How to reach me tarunpahade55@gmail.com
 
 <!---
 tarunpahade/tarunpahade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
