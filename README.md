@@ -1,4 +1,3 @@
-Here's a tailored version for your GitHub profile README using your provided details and links: 
 
 ---
 
