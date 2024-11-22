@@ -7,10 +7,12 @@
 My AI SaaS side project
 
 👯 **I’m looking to collaborate on:**  
-AI Full-stack projects  
+ Full-stack , blockchain , and AI  
 
 🌱 **I’m currently learning:**  
-Next.js, AWS, and AI app development  
+Machine learning and quant
+
+
 
 ⚡ **What I love:**  
 I love creating content on X/Twitter and learning new technologies  
