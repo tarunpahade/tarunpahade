@@ -3,16 +3,18 @@
 
 ### Hi there, **I'm Tarun Pahade!** 👋
 
-### 🔭 I’m currently working on 
-Data Science and Research Papers 
-Multi agent ecosystem
+###  working on 
+
+
 
  **I’m looking to collaborate on:**  
-Reinforcement Learning and 3d rendering       
+Data Science-
+Player peformance 
+Research Papers - 
+Multi agent ecosystem
 
 🌱 **I’m currently learning:**  
-Deep Q learning
-Reinforcement 
+Reinforcement Learning and 3d rendering 
 
 Preferred Tech stack
 Langchain , node js ,  
@@ -42,10 +44,6 @@ learning new technologies
 
 ---
 
-### 📊 GitHub Stats
-
-![TarunPahade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarunpahade&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)  
-![TarunPahade's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarunpahade&theme=vue-dark&hide_border=false)  
 
 ---
 
