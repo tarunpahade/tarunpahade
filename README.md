@@ -4,7 +4,7 @@
 ### Hi there, **I'm Tarun Pahade!** 👋
 
 ###  working on 
-
+Deep Q learning and Agents 
 
 
  **I’m looking to collaborate on:**  
@@ -12,7 +12,7 @@ Data Science Projects
 Research Papers 
 
 🌱 **I’m currently learning:**  
-Reinforcement Learning and 3d rendering 
+Finance and Crypto 
 
 Preferred Tech stack
 Buildship and v.0 dev
