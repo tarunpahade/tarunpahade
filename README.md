@@ -4,21 +4,26 @@
 ### Hi there, **I'm Tarun Pahade!** 👋
 
 ### 🔭 I’m currently working on 
-AI Agents  
+Data Science and Research Papers 
+Multi agent ecosystem
 
-👯 **I’m looking to collaborate on:**  
- Data Science and Research Papers   
+ **I’m looking to collaborate on:**  
+Reinforcement Learning and 3d rendering       
 
 🌱 **I’m currently learning:**  
 Deep Q learning
 Reinforcement 
 
+Preferred Tech stack
+Langchain , node js ,  
 
+
+Langgraph  
 
 ⚡ **What I love:**  
 learning new technologies  
 
-## 🌐 Socials
+##  Socials
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/TarunPahade)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-pahade-38b350236/)  
