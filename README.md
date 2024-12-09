@@ -4,18 +4,19 @@
 ### Hi there, **I'm Tarun Pahade!** 👋
 
 ### 🔭 I’m currently working on 
-My AI SaaS side project
+AI Agents  
 
 👯 **I’m looking to collaborate on:**  
- Full-stack , blockchain , and AI  
+ Data Science and Research Papers   
 
 🌱 **I’m currently learning:**  
-Machine learning and quant
+Deep Q learning
+Reinforcement 
 
 
 
 ⚡ **What I love:**  
-I love creating content on X/Twitter and learning new technologies  
+learning new technologies  
 
 ## 🌐 Socials
 
