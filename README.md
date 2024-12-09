@@ -8,16 +8,14 @@
 
 
  **I’m looking to collaborate on:**  
-Data Science-
-Player peformance 
-Research Papers - 
-Multi agent ecosystem
+Data Science Projects 
+Research Papers 
 
 🌱 **I’m currently learning:**  
 Reinforcement Learning and 3d rendering 
 
 Preferred Tech stack
-Langchain , node js ,  
+Buildship and v.0 dev
 
 
 Langgraph  
