@@ -1,6 +1,6 @@
 
 ---
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+![visitors](https://visitor-badge.laobi.icu/badge?tarunpahade=tarunpahade)
 
 ### Hi there, **I'm Tarun Pahade!** 👋
 I'm Self taught Full stack developer from Aurangabad Maharastra
