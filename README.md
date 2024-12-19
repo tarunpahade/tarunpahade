@@ -3,16 +3,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?tarunpahade=tarunpahade)
 
 ### Hi there, **I'm Tarun Pahade!** 👋
-I'm Self taught Full stack developer from Aurangabad Maharastra
+I'm Self taught passionate self taught Full stack developer from Aurangabad Maharastra . Diving deep into world of AI agents and Opensource AGI 
 
 Fullstack ai engenieer currently at Nath School of business technology
-I’m looking to collaborate on: Data Science Projects
-I’m currently learning: Finance and Crypto 
-
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/TarunPahade)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-pahade-38b350236/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/tarunpahade)
+I’m looking to collaborate on: Data Science and ml Projects
+I’m currently learning: Decentralized finance  
 
 
 
