@@ -5,7 +5,7 @@
 ### Hi there, **I'm Tarun Pahade!** 👋
 I'm Self taught Full stack developer from Aurangabad Maharastra
 
-Worked as fullstack developer at advita educare  
+Fullstack ai engenieer currently at Nath School of business technology
 I’m looking to collaborate on: Data Science Projects
 I’m currently learning: Finance and Crypto 
 
