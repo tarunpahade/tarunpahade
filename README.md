@@ -3,14 +3,9 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?tarunpahade=tarunpahade)
 
 ### Hi there, **I'm Tarun Pahade!** 👋
-I'm Self taught passionate self taught Full stack developer from Aurangabad Maharastra . Diving deep into world of AI agents and Opensource AGI 
+. Diving deep into world of LLM agents and Opensource AGI 
 
 Fullstack ai engenieer currently at Nath School of business technology
-I’m looking to collaborate on: Data Science and ml Projects
-I’m currently learning: Decentralized finance  
-
-
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
