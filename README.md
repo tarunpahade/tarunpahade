@@ -21,4 +21,3 @@ ML Eng @augrade
 https://www.omdena.com/projects
 
 
-Let me know if you'd like any further customization or have more content you want to highlight!
