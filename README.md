@@ -5,8 +5,7 @@
 ### Hi there, **I'm Tarun Pahade!** 👋
 . Diving deep into world of LLM agents and Opensource AGI 
 
-Fullstack ai engenieer currently at Nath School of business technology
-
+ML Eng @augrade
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -19,6 +18,7 @@ Fullstack ai engenieer currently at Nath School of business technology
 
 
 
+https://www.omdena.com/projects
 
 
 Let me know if you'd like any further customization or have more content you want to highlight!
